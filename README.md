@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadelm2" alt="dewalion22" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS, Express, Golang**
+- 🌱 I’m currently learning **Golang Expert, Java Spring boot, NodeJS, Express, **
 
 - 💬 Ask me about **NodeJS**
 
